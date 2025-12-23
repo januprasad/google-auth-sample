@@ -1,0 +1,5 @@
+{
+  "name": "NanoGen - Google Auth & Image Generation",
+  "description": "A secure application demonstrating Google SSO integration and high-performance image generation using the Gemini 2.5 Flash Image model (Nano Banana).",
+  "requestFramePermissions": []
+}
